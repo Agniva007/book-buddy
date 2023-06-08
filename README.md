@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot (40)](https://github.com/Agniva007/book-buddy/assets/78679487/c4f5f3f2-394d-48c6-b125-c91bc5ed3019)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
